@@ -164,6 +164,10 @@ body{
   padding: 44px 56px;
 }
 
+.booking .section-desc{
+  margin-bottom: 10px;
+}
+
 .iframe-wrap{
   border-radius: 16px;
   overflow: hidden;
