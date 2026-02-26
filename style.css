@@ -164,8 +164,13 @@ body{
   padding: 44px 56px;
 }
 
-.card .booking .section-desc {
-  margin-bottom: 10px !important; 
+.booking-header{
+  display: flow-root; 
+  margin-bottom: 10px; 
+}
+
+.booking .section-desc{
+  margin-bottom: 0; 
 }
 
 .iframe-wrap{
