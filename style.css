@@ -178,7 +178,7 @@ body{
 }
 
 .note{
-  margin-top: 16px;
+  margin: 0 0 16px 0;;
   padding: 12px 14px;
   border-radius: 12px;
   background: rgba(17,24,39,0.04);
